@@ -1,1 +1,4 @@
-include: [".well-known"]
+title: Ayush's Portfolio
+description: My professional site
+plugins:
+  - jekyll-seo-tag
