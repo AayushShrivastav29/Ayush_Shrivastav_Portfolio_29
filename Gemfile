@@ -14,4 +14,4 @@ gem "webrick", "~> 1.7"     # Needed for local server on Ruby 3+
 
 group :development do
   gem "jekyll-watch", "~> 2.2"
-end"
+end
