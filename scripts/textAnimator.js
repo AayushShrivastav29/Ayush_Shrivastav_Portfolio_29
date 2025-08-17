@@ -1,7 +1,7 @@
 function LetterFlowingTextAnimator(){
 
   var words = [
-      "Computer science engineer","Mobile application developer","Clean architecture designing","Flask backend developer", "Cricket enthusiast :D"],
+      "Computer science engineer","Software Engineer","Photographer","Editing", "Travel enthusiast :D"],
       part,
       i = 0,
       offset = 30,
